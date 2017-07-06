@@ -1,0 +1,12 @@
+.DS_Store
+.pyc
+
+# jupyter notebook
+.ipynb_checkpoints/
+
+# experiments
+tmp/
+
+# result files
+merged_movie_comments*
+navermovie_info*.pkl
