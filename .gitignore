@@ -12,3 +12,4 @@ merged_movie_comments*
 navermovie_info*.pkl
 tutorials/data/*/*.json
 tutorials/data/*.pkl
+tutorials/data/*.txt
